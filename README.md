@@ -1,1 +1,1 @@
-[https://lepkovich.github.io/rsschool-2019Q1-cv/cv.md](https://lepkovich.github.io/rsschool-2019Q1-cv/cv.md)
+[https://lepkovich.github.io/rsschool-2019Q1-cv/cv](https://lepkovich.github.io/rsschool-2019Q1-cv/cv)
